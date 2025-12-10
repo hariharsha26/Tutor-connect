@@ -1,0 +1,24 @@
+{
+    "id": "1",
+    "name": "Sarah Jenkins",
+    "subjects": [
+        "Mathematics",
+        "Calculus"
+    ],
+    "experience": 8,
+    "location": "Brooklyn, NY",
+    "timings": "Mon-Wed 5pm-9pm",
+    "priceRange": 55,
+    "languages": [
+        "English"
+    ],
+    "rating": 4.9,
+    "demoVideos": [
+        "mov_bbb.mp4"
+    ],
+    "notes": [
+        "calculus-101.pdf"
+    ],
+    "bio": "Expert in Calculus and Linear Algebra. I make math fun and understandable.",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400"
+}

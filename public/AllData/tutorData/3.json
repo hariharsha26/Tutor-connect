@@ -1,0 +1,25 @@
+{
+    "id": "3",
+    "name": "Maria Garcia",
+    "subjects": [
+        "Spanish",
+        "Literature"
+    ],
+    "experience": 4,
+    "location": "Manhattan, NY",
+    "timings": "Tue-Thu 3pm-7pm",
+    "priceRange": 40,
+    "languages": [
+        "English",
+        "Spanish"
+    ],
+    "rating": 4.7,
+    "demoVideos": [
+        "mov_bbb.mp4"
+    ],
+    "notes": [
+        "spanish-grammar.pdf"
+    ],
+    "bio": "Native Spanish speaker with a passion for literature and language arts.",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400"
+}

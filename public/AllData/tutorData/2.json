@@ -1,0 +1,25 @@
+{
+    "id": "2",
+    "name": "David Chen",
+    "subjects": [
+        "Physics",
+        "Chemistry"
+    ],
+    "experience": 12,
+    "location": "Queens, NY",
+    "timings": "Weekends 10am-4pm",
+    "priceRange": 70,
+    "languages": [
+        "English",
+        "Mandarin"
+    ],
+    "rating": 5.0,
+    "demoVideos": [
+        "mov_bbb.mp4"
+    ],
+    "notes": [
+        "physics-mechanics.pdf"
+    ],
+    "bio": "PhD in Physics. Specializing in AP Physics and competitive exam prep.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400"
+}
